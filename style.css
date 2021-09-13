@@ -1,0 +1,12 @@
+*{
+    font-family: monospace;
+    background-color: bisque;
+}
+div{
+    font-size: 32px;
+}
+p{
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
